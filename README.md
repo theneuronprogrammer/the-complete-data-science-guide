@@ -59,7 +59,7 @@ https://seaborn.pydata.org/tutorial.html
 
 
 
--Main ML libraries:
+- Main ML libraries:
 
 1. Scikit-learn.
 https://scikit-learn.org/stable/index.html

@@ -4,7 +4,7 @@
 
 ## Getting Started:
 
-- First, know what data science is all about. 
+### First, know what data science is all about. 
 
 1. Follow the playlist from udacity: https://www.youtube.com/watch?v=Cgm3r-G0cMQ&list=PLAwxTw4SYaPk41og7PER4HBpGciPw6n3x
 2. https://datascience.berkeley.edu/about/what-is-data-science/
@@ -12,7 +12,7 @@
 4. https://www.youtube.com/watch?v=KdgQvgE3ji4&list=PL9ooVrP1hQOGR57Y4g1LFhn1JXVgn1lkX
 
 
-- Mathematics is the very core machine learning and data science. Although, you don't need to know all of it but you do require Statistics, Linear Algebra, Calculas.
+### Mathematics is the very core machine learning and data science. Although, you don't need to know all of it but you do require Statistics, Linear Algebra, Calculas.
 
 1. The elements of statistics is a very widely used book : https://web.stanford.edu/~hastie/ElemStatLearn/download.html
 2. https://www.edureka.co/blog/math-and-statistics-for-data-science/
@@ -24,14 +24,14 @@
 
 ## Learn a programming language.
 
-- Python is mostly used programming language for data sciene and machine learning because of its simplicity and number of available libraries to work with, which make it very easy to get started with. 
+### Python is mostly used programming language for data sciene and machine learning because of its simplicity and number of available libraries to work with, which make it very easy to get started with. 
 
 1. https://developers.google.com/edu/python/?ref=hackr.io
 2. https://web.itu.edu.tr/hulyayalcin/MAK230E_PythonProgramming/%5B2014%5D%5BShaw%5DLEARNPYTHONTHE%20HARDWAY.pdf
 3. https://www.youtube.com/watch?v=_uQrJ0TkZlc&ref=hackr.io
 4. https://pymbook.readthedocs.io/en/latest/index.html?ref=hackr.io
 
-- Main libraries you need to know in python for ML & DS are : 
+### Main libraries you need to know in python for ML & DS are : 
 
 1. Numpy.
 https://docs.scipy.org/doc/numpy/user/quickstart.html
@@ -47,7 +47,7 @@ https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
 
 
 
-- For visualization:
+### For visualization:
 
 1. Matplotlib.
 https://matplotlib.org/contents.html
@@ -59,7 +59,7 @@ https://seaborn.pydata.org/tutorial.html
 
 
 
-- Main ML libraries:
+### Main ML libraries:
 
 1. Scikit-learn.
 https://scikit-learn.org/stable/index.html
@@ -109,6 +109,9 @@ https://www.kaggle.com/kanncaa1/pytorch-tutorial-for-deep-learning-lovers
 
 
 
-> That's it for now folks! I will be updating more resoures here. 
+
+
+
+That's it for now folks! I will be updating more resoures here. 
 
 Thanks.
